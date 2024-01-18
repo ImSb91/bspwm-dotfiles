@@ -68,9 +68,7 @@ xinput set-prop "DLL07BE:01 06CB:7A13 Touchpad" "libinput Natural Scrolling Enab
 xinput set-prop "DLL07BE:01 06CB:7A13 Touchpad" "libinput Click Method Enabled" 0 1
 xinput set-prop "DLL07BE:01 06CB:7A13 Touchpad" "libinput Disable While Typing Enabled" 0
 # ------- Keyboard fixes ------
-# Remap Caps-lock key to Escape, for using VIM
-setxkbmap -option caps:escape
-# Make US and DK keyboard layout togglable with Shift+Alt
+# Make US and ara keyboard layout togglable with Shift+Alt
 setxkbmap -layout us,ara -option grp:win_space_toggle
 
 export _JAVA_AWT_WM_NONREPARENTING=1
