@@ -21,7 +21,8 @@
    - ttf-jetbrains-mono
    - ttf-jetbrains-mono-nerd
    - ttf-terminus-nerd
-   - ttf-inconsolata ttf-joypixels
+   - ttf-inconsolata
+   - ttf-joypixels
    - ttf-icomoon-feather
    - ttf-meslo-nerd-font-powerlevel10k
      
