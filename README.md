@@ -1,3 +1,3 @@
 # bspwm-dotfiles
 
-[lol](https://github.com/ImSb91/bspwm-dotfiles/blob/main/preview1.png?raw=true)
+[lol]([https://imgur.com/undefined?raw=true)
