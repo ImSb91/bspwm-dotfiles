@@ -8,6 +8,7 @@
 * `bspwm`: Window manager
 * `dunst`: Notification daemon
 * `nvim`: Editor
+* `pfetch`: System info
 * `picom`: Compositor
 * `polybar`: Status bar
 * `ranger`: File manager
