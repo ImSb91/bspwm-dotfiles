@@ -4,5 +4,5 @@
 ![lol](https://github.com/ImSb91/bspwm-dotfiles/blob/main/preview2.png?raw=true "Preview2")
 
 # Packages 
-`zsh` terminal 
-`rofi` application launcher
+* `zsh` terminal 
+* `rofi` application launcher
