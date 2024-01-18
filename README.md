@@ -6,6 +6,7 @@
 # Packages 
 
 * `bspwm`: Window manager
+* `btop`: Activity monitor
 * `dunst`: Notification daemon
 * `nvim`: Editor
 * `pfetch`: System info
