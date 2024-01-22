@@ -17,7 +17,7 @@
 * `sxhkd`: Hotkey daemon
 * `zathura`: Pdf reader
 * `zsh`: Terminal emulator
-* fonts:
+* `fonts`:
    - ttf-jetbrains-mono
    - ttf-jetbrains-mono-nerd
    - ttf-terminus-nerd
