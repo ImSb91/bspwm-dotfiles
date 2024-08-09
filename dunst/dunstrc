@@ -101,13 +101,13 @@
 
     # Should a notification popped up from history be sticky or timeout
     # as if it would normally do.
-    sticky_history = yes
+    sticky_history = no
 
     # Maximum amount of notifications kept in history
     history_length = 20
 
     # Display indicators for URLs (U) and actions (A).
-    show_indicators = no
+    show_indicators = yes
 
     # The spacing between lines.  If the height is smaller than the
     # font height, it will get raised to the font height.
@@ -182,20 +182,26 @@
     # Context menu.
     context = ctrl+shift+period
 
+
+[global]
+frame_color = "#89B4FA"
+separator_color= frame
+timeout = 4
 [urgency_low]
- 	background = "#2E344090"
-	foreground = #D8DEE9"
-    timeout = 10
+background = "#1E1E2E"
+foreground = #CDD6F4"
+timeout = 4
  
 [urgency_normal]
- 	background = "#3B425299"
-	foreground ="#E5E9F0"
-    timeout = 10
+background = "#1E1E2E"
+foreground ="#CDD6F4"
+timeout = 4
 
 [urgency_critical]
- 	background = "#282828"
-	foreground = "#ebdbb2"
-    timeout = 0
+background = "#1E1E2E"
+foreground = "#CDD6F4"
+frame_color = "#FAB387"
+timeout = 4
 
 
 
