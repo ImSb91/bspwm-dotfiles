@@ -12,9 +12,9 @@
 * `pfetch`: System info
 * `picom`: Compositor
 * `polybar`: Status bar
-* `ranger`: File manager
 * `rofi`: Application launcher
 * `sxhkd`: Hotkey daemon
+* `yazi`: File manager
 * `zathura`: Pdf reader
 * `zsh`: Terminal emulator
 * `fonts`:
