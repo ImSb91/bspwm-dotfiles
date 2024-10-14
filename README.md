@@ -1,4 +1,4 @@
-Delete preview1.png# bspwm-dotfiles
+
 # Screenshots
 ![lol](https://github.com/ImSb91/bspwm-dotfiles/blob/main/preview%201.png?raw=true "preview1")
 ![lol](https://github.com/ImSb91/bspwm-dotfiles/blob/main/preview%202.png?raw=true "preview2")
